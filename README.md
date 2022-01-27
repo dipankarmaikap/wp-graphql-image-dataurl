@@ -6,7 +6,6 @@ This is an extension to the WPGraphQL plugin (https://github.com/wp-graphql/wp-g
 
 ## Quick Install
 
-- Install from the [WordPress Plugin Directory](https://wordpress.org/plugins/wp-graphql-image-dataurl/)
 - Clone or download the zip of this repository into your WordPress plugin directory & activate the **WP GraphQL Yoast SEO** plugin
 - Install & activate [WPGraphQL](https://www.wpgraphql.com/)
 
