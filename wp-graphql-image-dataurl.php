@@ -3,7 +3,7 @@
 /**
  * Plugin Name: WpGraphql Image DataUrl
  * Plugin URI: https://dipankarmaikap.com
- * Description: Add DataUrl of images.
+ * Description: Generate DataUrl of MediaItems.
  * Version: 0.1.0
  * Author:      Dipankar Maikap
  * Author URI:  https://dipankarmaikap.com/
