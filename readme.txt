@@ -8,8 +8,6 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin enables Yoast SEO Support for WPGraphQL.
-
 == Description ==
 
 This plugin Generates DataUrl of MediaItem in WPGraphQL
