@@ -1,4 +1,4 @@
-=== WpGraphQL Image DataUrl Addon ===
+=== Generate WpGraphql Image DataUrl ===
 Contributors: dipankarmaikap
 Tags: WPGraphQL, GraphQL, Headless WordPress, Decoupled WordPress, JAMStack, DataUrl, Base64
 Requires at least: 5.0
@@ -21,7 +21,7 @@ This is an extension to the WPGraphQL plugin (https://github.com/wp-graphql/wp-g
 == Installation ==
 
 1. Install & activate [WPGraphQL](https://www.wpgraphql.com/)
-2. Upload plugin to the `/wp-content/plugins/` directory
+2. Upload the plugin to the `/wp-content/plugins/` directory
 
 
  [See GitHub Repo for example queries](https://github.com/dipankarmaikap/wp-graphql-image-dataurl)
