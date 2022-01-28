@@ -4,7 +4,7 @@
  * Plugin Name: Generate WpGraphql Image DataUrl
  * Plugin URI: https://github.com/dipankarmaikap/wp-graphql-image-dataurl
  * Description: Generate DataUrl of MediaItems.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author:      Dipankar Maikap
  * Author URI:  https://dipankarmaikap.com/
  * License:     GPLv2 or later
