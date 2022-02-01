@@ -6,9 +6,9 @@ This is an extension to the WPGraphQL plugin (https://github.com/wp-graphql/wp-g
 
 ## Quick Install
 
--   Install from the [WordPress Plugin Directory](https://wordpress.org/plugins/generate-wpgraphql-image-dataurl/)
-- Clone or download the zip of this repository into your WordPress plugin directory & activate the **WPGraphQl Image DataUrl** plugin
 - Install & activate [WPGraphQL](https://www.wpgraphql.com/)
+- Install from the [WordPress Plugin Directory](https://wordpress.org/plugins/generate-wpgraphql-image-dataurl/)
+- Clone or download the zip of this repository into your WordPress plugin directory & activate the **WPGraphQl Image DataUrl** plugin
 
 ## Find this useful?
 
